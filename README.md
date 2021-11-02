@@ -48,12 +48,14 @@ I wanted the usage to be dead simple, this is how the single-button interface wo
 ## Instructions
 First of all, you need to configure Arduino as an ISP Programmer, and burn a bootloader on the ATTiny85
 
-Personally, I've followed these instructions https://www.instructables.com/How-to-Program-an-Attiny85-From-an-Arduino-Uno/ 
+Personally, I've followed these instructions https://www.instructables.com/How-to-Program-an-Attiny85-From-an-Arduino-Uno/
 But I had to struggle a lot, so I believe that a reliable set of instructions on how to program an ATTiny 85 with Arduino should be part of these instructions [TBD]
 
 I made some instructions in the past, but I believe they are outdated now: https://dev.mikamai.com/2014/03/05/how-to-program-an-attiny85-or-attiny45-with-an/
 
 Then you have to program the ATTiny with open_bike_light.ino and make a simple circuit like this one:
+
+![Fritzing schematics](schematics/open_bike_light_bb.png)
 
 * You can use as many LED as you want, but the ATTiny85 can handle 40mA on a single pin. If you want to drive more than 2-3 LEDs you must use a transistor. If you use something like a TIP102 you can also drive a LED strip (while greatly increasing the power consumption)
 
