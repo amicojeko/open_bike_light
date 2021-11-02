@@ -88,7 +88,7 @@ void loop() {
       ledPower = constrain(128 * sin((millis() / 3000.0) * 2.0 * PI), 0, 255);
       break;
     case 5:
-      // full syne wave cycle
+      // full sine wave cycle
       ledPower = 128.0 + 128 * sin((millis() / 2000.0) * 2.0 * PI);
       break;
     case 6:
