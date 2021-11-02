@@ -11,7 +11,7 @@ There are many bike lights on the market, but I struggled to find one with all t
 - **Open Hardware**: You can choose the LED types as well as the battery, to meet any possible requirement. You can also print your own enclosure to mount it wherever you want.
 - **Open Software**: You can design any light pattern you want.
 - **Simple to use**: I've tried to make an intuitive single button interface, to make the use obvious without the need to read a manual.
-- **Funny**: This is a simple and yet challenging multidisciplinary project! It involves programming an ATTiny85 with an Arduino, playing with exotic low level functions as the Sleep mode and Interrupts, some basic circuit design and soldering and designing/3D-printing the enclosure.
+- **Funny**: This is a simple and yet challenging multidisciplinary project! It involves programming an ATTiny85 with an Arduino, playing with exotic low level functions as the Sleep mode and Interrupts, some basic circuit design and soldering, as well as designing/3D-printing the enclosure.
 
 ## Usage
 I wanted the usage to be dead simple, this is how the single-button interface works
