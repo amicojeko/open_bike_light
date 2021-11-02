@@ -1,6 +1,6 @@
 # Open Bike Light Project
 
-The intent of this project is to create a modern, simple and fully customisable bycicle light.
+The intent of this project is to create a modern, simple and fully customisable bicycle light.
 
 There are many bike lights on the market, but I struggled to find one with all the charateristics I needed. Specifically, I wanted the freedom to 3D-print my own enclosure, I wanted it to be cheap, low-power, and I wanted to design my own light patterns and choose the LEDs to use. So I started this project
 
