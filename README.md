@@ -72,6 +72,6 @@ Now you can start using it right away!!
 - Automatic power ON and OFF
 - Add peripherials, like an accelerometer and a gyro
 
-## How to participate to the project
+## How to join the project
 
 Any help is more than welcome! Anything can be changed except for the one-button interface. The main features should be unchaged, so the power consumption in sleep mode should be unaltered or lower than the current (about 2uA). But apart from that, the code can be improved (and there is plenty of space for that), more fancy light patterns can be added. A very desirable feature would be to drive an RGB LED. The AtTiny85 has PWM only on 2 Pins, but I'm sure that with some black magic mojo jojo PWM could be added via software on a third pin, that would open to the magic of the RGB colored patterns! I'd also like to add some sensors (like an accelerometer and/or a gyro) to make dynamic light patterns (would be nice if it starts blinking when breaking or jumping) and also automatic power ON and OFF. However, this should not compromise the power consumption in a noticeable way.
